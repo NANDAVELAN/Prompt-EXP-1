@@ -39,7 +39,7 @@ The primary goal is to create a customized, multi-page children's storybook that
 
 ---
 
-## PROGRAM:
+## PROMPT REESPONSE:
 
 [tag: 635802106816145427.png]
 
@@ -62,5 +62,6 @@ Olivia blinked her big eyes. "Your ears are very special," she hooted gently. "T
 The night air was cool on his fur. Barnaby squeaked again, a little louder this time. His sound-sight showed him a big, juicy moth fluttering nearby. With a happy swoop, he zipped through the air and caught it! The night wasn't a big, scary darkness anymore. It was a beautiful, sparkling adventure filled with friends and delicious snacks. And Barnaby the bat was finally ready to explore it all.
 
 ## OUTPUT:
+
 
 ## RESULT :
