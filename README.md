@@ -66,7 +66,7 @@ The night air was cool on his fur. Barnaby squeaked again, a little louder this 
 [Download the output PDF](./prompt%201-compressed.pdf)
 
 ## RESULT:
-The storybook was generated as specified.
+The storybook was generated about a bat who is afraid of dark for children aged 5 to 7..
 
 All requested features bed time story style, narration, and length—were included.
 
