@@ -39,7 +39,7 @@ The primary goal is to create a customized, multi-page children's storybook that
 
 ---
 
-## PROMPT REESPONSE:
+## PROMPT RESPONSE:
 
 
 
